@@ -14,7 +14,7 @@ import copy
 
 mainwindow = Tk()
 mainwindow.title('RU NER - Tagging Tool')
-mainwindow.geometry("645x440")
+mainwindow.geometry("800x440")
 mainwindow.resizable(0,0)
 mainwindow.config(bg='#1E1128')
 
